@@ -1,0 +1,20 @@
+.box-a {
+  width: 500px;
+}
+
+.box-b {
+  width: 2８0px;
+  height: 180px;
+  float: left; /* ←左に配置 */
+}
+
+.box-c {
+  width: 200px;
+  height: 180px;
+  float: right; /* ←右に配置 */
+}
+
+box-d {
+  width: 500px;
+  height: ８0px;
+}
